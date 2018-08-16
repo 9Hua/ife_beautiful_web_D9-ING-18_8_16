@@ -60,7 +60,7 @@ p {
 
 .web-header {
     min-height: 99rem;
-    background-image: url(../images/header_background.png);
+    background-image: url(/images/header_background.png);
 }
 
 .web-header .wrapper {
