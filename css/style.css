@@ -60,7 +60,7 @@ p {
 
 .web-header {
     min-height: 99rem;
-    background-image: url(/images/header_background.png);
+    background-image: url(../images/header_background.png);
 }
 
 .web-header .wrapper {
@@ -238,7 +238,7 @@ section.past-3 {
     width: inherit;
     min-height: 80rem;
     color: #fff;
-    background-image: url(./images/past3_background.png);
+    background-image: url(../images/past3_background.png);
 }
 
 .past-3 .wrapper {
@@ -304,7 +304,7 @@ section.past-3 {
     padding-left: 7rem;
     width: 50%;
     height: 60rem;
-    background-image: url(./images/past3_IPad.png);
+    background-image: url(../images/past3_IPad.png);
     background-size: 97rem 60rem;
 }
 
